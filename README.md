@@ -35,9 +35,6 @@ Click “Start Capture for All Animations”:
 
 This will run each animation, capture it frame-by-frame, and save the results as:
 
-markdown
-Kopyala
-Düzenle
 Assets/
   CapturedFrames/
     Idle/
